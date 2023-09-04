@@ -50,7 +50,7 @@ function botDelay(jawabanUser) {
 }
 
 function finishing() {
-  pertanyaan.innerHTML = `Thank u ya ${usersData[0]} udah main ke deabot 😉, kali-kali kita main ${usersData[2]} bareng ya!`
+  pertanyaan.innerHTML = `Thank u ya ${usersData[0]} udah main ke sonybot 😉, kali-kali kita main ${usersData[2]} bareng ya!`
   jawaban.value = "siap thanks juga!"
 }
 
